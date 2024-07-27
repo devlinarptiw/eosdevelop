@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+
+Name=GTK-Hello_TEST
+Comment=Trying out eos development
+Categories=Utility;Amusement;
+
+Icon=gtk-hello_test
+Exec=helloapp
+Terminal=false
